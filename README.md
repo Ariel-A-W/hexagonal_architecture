@@ -1,1 +1,3 @@
-# hexagonal_architecture
+# Hexagonal Architecture 
+
+Plantilla inicial para una Arquitectura Hexagonal.
